@@ -1,0 +1,5 @@
+{
+  "name": "AI Assessment Designer",
+  "description": "An AI-powered tool to help lecturers design effective engineering assessments based on field, student level, and course learning outcomes. Guides users through a simple 5-step process to generate tailored assessment plans.",
+  "requestFramePermissions": []
+}
